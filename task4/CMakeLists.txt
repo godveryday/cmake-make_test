@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5 FATAL ERROR)
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 
 project(task4 LANGUAGES C)
 
