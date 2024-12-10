@@ -1,0 +1,7 @@
+# set minimum cmake version
+cmake_minimum_required(VERSION 3.5 FATAL ERROR)
+
+# project name and languages
+project(task3 LANGUAGES C)
+
+add_executable(hello-world hello-world.c)
